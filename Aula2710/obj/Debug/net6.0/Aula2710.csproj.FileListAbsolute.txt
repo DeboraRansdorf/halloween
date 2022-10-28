@@ -1,0 +1,15 @@
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\obj\Debug\net6.0\Aula2710.csproj.AssemblyReference.cache
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\obj\Debug\net6.0\Aula2710.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\obj\Debug\net6.0\Aula2710.AssemblyInfoInputs.cache
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\obj\Debug\net6.0\Aula2710.AssemblyInfo.cs
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\obj\Debug\net6.0\Aula2710.csproj.CoreCompileInputs.cache
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\bin\Debug\net6.0\Aula2710.exe
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\bin\Debug\net6.0\Aula2710.deps.json
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\bin\Debug\net6.0\Aula2710.runtimeconfig.json
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\bin\Debug\net6.0\Aula2710.dll
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\bin\Debug\net6.0\Aula2710.pdb
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\obj\Debug\net6.0\Aula2710.dll
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\obj\Debug\net6.0\refint\Aula2710.dll
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\obj\Debug\net6.0\Aula2710.pdb
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\obj\Debug\net6.0\Aula2710.genruntimeconfig.cache
+C:\Users\debora.ransdorf\source\repos\Aula2710\Aula2710\obj\Debug\net6.0\ref\Aula2710.dll
